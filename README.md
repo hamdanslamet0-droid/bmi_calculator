@@ -31,8 +31,13 @@ Uji input tinggi/berat manual dan slider.
 
 Pastikan hasil BMI sesuai kategori.
 Halaman Utama
+
 <img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/360a888b-31d7-48bc-9287-c91d36d4a904" />
+
+
+
 Halaman Result
+
 <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/0499659f-08cf-4b5c-8296-dd6628fbadcb" />
 
 
